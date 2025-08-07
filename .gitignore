@@ -1,0 +1,21 @@
+# Ignore Eclipse/STS workspace settings
+.metadata/
+
+# Ignore zip and backup files
+*.zip
+*.tar.gz
+
+# Ignore build output
+target/
+build/
+
+# Ignore OS-specific junk
+.DS_Store
+Thumbs.db
+
+# Node modules if frontend uses React/Angular
+node_modules/
+
+# IntelliJ
+.idea/
+*.iml
