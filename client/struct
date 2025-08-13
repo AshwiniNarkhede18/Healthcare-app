@@ -1,0 +1,24 @@
+src/
+│
+├── components/
+│   ├── common/
+│   ├── user/
+│   ├── doctor/
+│   └── admin/
+│
+├── pages/
+│   ├── Login.js
+│   ├── Register.js
+│   ├── Home.js
+│   └── Dashboard.js
+│
+├── services/
+│   ├── authService.js
+│   ├── api.js
+│
+├── utils/
+│   └── auth.js
+│
+├── App.js
+├── index.js
+└── routes.js
